@@ -1,1 +1,1 @@
-git is amazing!
+This is version 2.
